@@ -5,7 +5,7 @@
   <b>Welcome to my page!</b></br>
   <i>
     I'm Minh Tri.</br>
-    Currently, I am a PHP programmer, and I am studying data analysis and machine learning.</br>
+    Currently, I am a PHP programmer, and I am studying data science.</br>
   </i>
 </p>
 
