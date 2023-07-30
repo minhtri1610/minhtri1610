@@ -19,11 +19,12 @@
 
 ### Technologies & Frameworks
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)]([https://github.com/minhtri1610])
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=Flask)]([https://github.com/minhtri1610])
+[![FastAPI](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=FastAPI)]([https://github.com/minhtri1610])
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]([https://github.com/minhtri1610])
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]([https://github.com/minhtri1610])
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]([https://github.com/minhtri1610])
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]([https://github.com/minhtri1610])
+[![AWS](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=aws)]([https://github.com/minhtri1610])
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]([https://github.com/minhtri1610])
