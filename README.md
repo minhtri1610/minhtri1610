@@ -11,11 +11,11 @@
 
 ### Languages
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)]([https://github.com/minhtri1610])
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]([https://github.com/minhtri1610])
-[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)]([https://github.com/minhtri1610])
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]([https://github.com/minhtri1610])
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)]([https://github.com/minhtri1610])
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]([https://github.com/minhtri1610])
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]([https://github.com/minhtri1610])
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)]([https://github.com/minhtri1610])
 
 ### Technologies & Frameworks
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)]([https://github.com/minhtri1610])
@@ -27,6 +27,7 @@
 [![AWS](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=aws)]([https://github.com/minhtri1610])
 
 ### OS
+[![AWS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Aws)]([https://github.com/minhtri1610])
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)]([https://github.com/minhtri1610])
 [![Hadoop](https://img.shields.io/badge/hadoop-black?style=for-the-badge&logo=Hadoop)]([https://github.com/minhtri1610])
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]([https://github.com/minhtri1610])
